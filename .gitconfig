@@ -1,0 +1,9 @@
+[user]
+	email = cannonmatthews@uchciago.edu
+	name = Cannon Matthews
+[guitool "git-svn/dcommit"]
+	cmd = git svn dcommit
+[guitool "git-svn/rebase"]
+	cmd = "git svn rebase "
+[guitool "git-svn/fetch"]
+	cmd = git svn fetch
